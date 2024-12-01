@@ -1,7 +1,3 @@
 # 100-Days-of-Code-Python
 
-**Day 1/100:** Band Name Generator
-
-**What I Did:** Completed a tutorial on Python basics.
-
-**What I Learned:** Variables, Input function, Print, String Manipulation.
+Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
