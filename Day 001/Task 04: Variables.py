@@ -1,8 +1,13 @@
-#We have 2 variables glass1 and glass2. glass1 contains milk and glass2 contains juice. Write 3 lines of code to switch the contents of the variables. 
-glass1 = "milk"
-glass2 = "juice"
+input("What is your name?")
 
-#Solution
-temp = glass1
-glass1 = glass2
-glass2 = temp
+#1. Use variable to store input
+name = input("What is your name?")
+print(name)
+
+#2. Check the length of the user input
+print(len(name))
+
+#3. Use "username and "length" variable get print(length).
+username = input("What is your name?")
+length = len(username)
+print(length)
