@@ -1,12 +1,44 @@
-#### 100 Days of Code (Python)
-Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!
+## [100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code)
+![giphy](https://github.com/user-attachments/assets/6c6e7519-8e36-43a3-a6c4-abbe8732bb2c)
 
-- Master the Python programming language by building 100 unique projects over 100 days.
-- Learn automation, game, app and web development, data science and machine learning all using Python.
-- Program in Python professionally
-- Learn Selenium, Beautiful Soup, Request, Flask, Pandas, NumPy, Scikit Learn, Plotly, and Matplotlib.
-- Create a portfolio of 100 Python projects to apply for developer jobs
-- Be able to build fully fledged websites and web apps with Python
-- Be able to use Python for data science and machine learning
-- Build games like Blackjack, Pong and Snake using Python
-- Build GUIs and Desktop applications with Python
+# Welcome to My Python Journey  
+
+This repository showcases **100 Python projects built over 100 days**, reflecting my dedication to mastering Python and developing diverse, real-world skills.  
+
+## What I'm Learning  
+
+- **Professional Python Programming**  
+  Advanced Python 3 for professional software development.  
+
+- **Automation**  
+  Streamlining repetitive tasks with Python scripting.  
+
+- **Game Development**  
+  Creating games like Blackjack, Pong, and Snake.  
+
+- **Web Scraping**  
+  Extracting data using tools like Beautiful Soup, Selenium, and Requests.  
+
+- **Data Science & Visualization**  
+  Analyzing and visualizing data with Pandas, NumPy, Matplotlib, and more.  
+
+- **GUI Development**  
+  Building desktop apps with Tkinter.  
+
+- **Web Development**  
+  - **Front-End**: HTML5, CSS3, Bootstrap  
+  - **Back-End**: Flask, REST APIs, SQL  
+
+- **Version Control**  
+  Managing code effectively with Git and GitHub.  
+
+- **Web Deployment**  
+  Publishing apps using platforms like Heroku and GitHub Pages.  
+
+## Why It Matters  
+
+By the end of this course, I’ll be fluent in Python, equipped to land a professional role, and armed with a portfolio of **100 projects**.  
+
+From building blogs and APIs to analyzing data and deploying web applications, these projects showcase **practical, market-ready skills**.  
+
+This journey is my commitment to **growth, creativity, and excellence** in programming.  
