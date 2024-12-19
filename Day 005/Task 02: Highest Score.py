@@ -15,8 +15,7 @@ print(sum)
 
 
 #2.1 MAX
-for score in student_scores:
-    print(max(student_scores))
+print(max(student_scores))
 
 #2.2 MANUALLY FINDING MAXIMUM NUMBER
 for score in student_scores:
